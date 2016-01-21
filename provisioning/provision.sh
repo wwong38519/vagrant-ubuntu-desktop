@@ -7,7 +7,7 @@ chmod +x /vagrant/provisioning/*.sh
 /vagrant/provisioning/timezone.sh
 /vagrant/provisioning/locale.sh
 /vagrant/provisioning/gui.sh
-/vagrant/provisioning/ide.sh
+/vagrant/provisioning/java.sh
 /vagrant/provisioning/mean.sh
 /vagrant/provisioning/pycharm.sh
 /vagrant/provisioning/swift.sh
