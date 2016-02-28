@@ -11,4 +11,5 @@ chmod +x /vagrant/provisioning/*.sh
 /vagrant/provisioning/mean.sh
 /vagrant/provisioning/pycharm.sh
 /vagrant/provisioning/swift.sh
+/vagrant/provisioning/docker.sh
 
